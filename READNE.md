@@ -1,2 +1,0 @@
-#### Thrift Project Instruction
-
