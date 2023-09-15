@@ -1,1 +1,1 @@
-# thriftProject
+# Thrift Project
