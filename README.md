@@ -1,10 +1,6 @@
 # Thrift Project: Microservices
 
 Realizing three main purpose:
-1. game side
-    1.1 add_user()
-    1.2 remove_user()
-2. server side
-    2.1 match server
-    2.2 match client
-3. data storage
+1. game side: using python3 to generate the client side. Realizing the function of adding and removing players
+2. server side: using c++ connect the server and realize the function of matching different players. Able to carry on the task with multithread to ensure the speed of connecting
+3. data storage: store the output in the server
